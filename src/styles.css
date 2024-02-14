@@ -4,9 +4,10 @@
     margin: 0;
     border: 0;
     box-sizing: border-box;
-    color: #EBEAEF;
+    color: #FCFFF7;
+    font-family: "Open Sans", sans-serif;
 }
 
 body {
-    background-color: #1F1147;
+    background-color: #046865;
 }
